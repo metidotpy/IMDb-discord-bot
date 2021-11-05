@@ -119,4 +119,4 @@ async def _movie(ctx, *, name_movie):
     await interaction.send(content = f"Your Movie is:\n{interaction.values[0]}")
 
     
-client.run('OTA1OTAxOTgyMzM2ODM5NzIx.YYQ09w.tJPJhqK_RfgnEF17dZwRwIqrE7s')
+client.run('your token')
