@@ -1,0 +1,14 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+chardet==4.0.0
+discord-components==2.1.2
+discord.py==1.7.3
+greenlet==1.1.2
+idna==3.3
+IMDbPY==2021.4.18
+lxml==4.6.4
+multidict==5.2.0
+SQLAlchemy==1.4.26
+typing-extensions==3.10.0.2
+yarl==1.7.2
